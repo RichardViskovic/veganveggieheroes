@@ -1,0 +1,59 @@
+/* Global styles for Vegan Veggie Heroes */
+
+body {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2fff0;
+    color: #333;
+}
+
+header {
+    background-color: #8fd14f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #8fd14f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    background-color: #ffae42;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ff9800;
+}
